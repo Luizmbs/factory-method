@@ -1,6 +1,6 @@
 package org.example;
 
-public class DeleteService implements IService{
+public class DeleteService {
 
     public String executar() {
         return "Deleção completa";
